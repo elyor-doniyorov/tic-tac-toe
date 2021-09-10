@@ -49,15 +49,16 @@ This project implements Tic tac game. The game should be played by two participa
 
 👤 **Author1**
 
-- GitHub: [@elyor](https://github.com/@elyor)
-- Twitter: [@Elyor](https://twitter.com/@elyor-doniyorov)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/feed/)
+- GitHub: [@elyor doniyorov](https://github.com/elyor-doniyorov)
+- Twitter: [@elyor doniyorov](https://twitter.com/@elyor-doniyorov)
+- LinkedIn: [@elyor doniyorov](https://www.linkedin.com/elyor-doniyorov/)
 
 👤 **Author2**
 
 - GitHub: [@githubhandle](https://github.com/ashraffares/http-ashraffares.github.io-)
 - Twitter: [@twitterhandle](https://twitter.com/Fares09301164)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/fares-ashraf-382a35176/)
+- 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
